@@ -58,7 +58,7 @@
   (= false (string? \b))
 
   "Strings are strings"
-  (= true (string? "string"))
+  (= true (string? "Asuna Karin"))
 
   "Some strings may be blank"
   (= true (string/blank? ""))
